@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "820598000741",
+    "project_id": "qpay-bangladesh-rtl",
+    "storage_bucket": "qpay-bangladesh-rtl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820598000741:android:bebac50798f686767bca8c",
+        "android_client_info": {
+          "package_name": "com.recursion.qpay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820598000741-ebproetdcqge4a0lvupo7te04orpfnke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMisvtYH7X2UZqPtE5ix7tOQm-7-OGfYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820598000741-ebproetdcqge4a0lvupo7te04orpfnke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

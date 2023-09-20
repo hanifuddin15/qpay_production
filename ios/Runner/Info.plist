@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>Qpay Bangladesh</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Qpay Bangladesh</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>googlegmail</string>
+		<string>x-dispatch</string>
+		<string>readdle-spark</string>
+		<string>airmail</string>
+		<string>ms-outlook</string>
+		<string>ymail</string>
+		<string>fastmail</string>
+		<string>superhuman</string>
+		<string>protonmail</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>This permission is not needed by the app, but it is required by an underlying API.</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>This app requires calendar access because of getting input dates.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>This app requires camera access because of input user profile picture, user valid id, scan QR.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>This app requires contacts access because of input contact number for mobile recharge.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Biometric authentication for login application locally</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This app requires location access to function properly.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>This app requires mic access to access camera features properly.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>This permission is not needed by the app, but it is required by an underlying API.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>This app requires access photo library to share payment receipt</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>This app requires access photos  because of input user profile picture.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>This permission is not needed by the app, but it is required by an underlying API.</string>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>io.flutter.embedded_views_preview</key>
+	<true/>
+	<key>kTCCServiceMediaLibrary</key>
+	<string>This permission is not needed by the app, but it is required by an underlying API.</string>
+</dict>
+</plist>

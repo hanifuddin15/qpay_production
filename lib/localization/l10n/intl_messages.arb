@@ -1,0 +1,261 @@
+{
+  "@@last_modified": "2020-07-15T04:22:54.002639",
+  "insertOtp": "Insert Otp Code",
+  "@insertOtp": {
+    "description": "insert Otp",
+    "type": "text",
+    "placeholders": {}
+  },
+  "takeIdImage": "Take Image of your national Id card",
+  "@takeIdImage": {
+    "description": "Take nid Image",
+    "type": "text",
+    "placeholders": {}
+  },
+  "thisWillTake2Minutes": "This will take less than 2 minutes",
+  "@thisWillTake2Minutes": {
+    "description": "this will take 2 minutes",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cantReadData": "Can't read data, take a clear picture",
+  "@cantReadData": {
+    "description": "cantReadData",
+    "type": "text",
+    "placeholders": {}
+  },
+  "takeClearNidPic": "Take a clearPicture of your national Id card",
+  "@takeClearNidPic": {
+    "description": "takeClearNidPic",
+    "type": "text",
+    "placeholders": {}
+  },
+  "verifyIdentity": "Verify your identity",
+  "@verifyIdentity": {
+    "description": "verify identity",
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordConstraint": "Password must be at least 6 characters long.",
+  "@passwordConstraint": {
+    "description": "passwordConstraint",
+    "type": "text",
+    "placeholders": {}
+  },
+  "services": "Services",
+  "@services": {
+    "description": "Services",
+    "type": "text",
+    "placeholders": {}
+  },
+  "faceNotFound": "Face not found",
+  "@faceNotFound": {
+    "description": "Face not found",
+    "type": "text",
+    "placeholders": {}
+  },
+  "lookLeft": "Look left",
+  "@lookLeft": {
+    "description": "look left",
+    "type": "text",
+    "placeholders": {}
+  },
+  "lookRight": "Look Right",
+  "@lookRight": {
+    "description": "look Right",
+    "type": "text",
+    "placeholders": {}
+  },
+  "smilePlease": "Smile Please",
+  "@smilePlease": {
+    "description": "smile Please",
+    "type": "text",
+    "placeholders": {}
+  },
+  "verified": "Verified",
+  "@verified": {
+    "description": "verified",
+    "type": "text",
+    "placeholders": {}
+  },
+  "error": "Error!",
+  "@error": {
+    "description": "error",
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm": "Confirm",
+  "@confirm": {
+    "description": "Confirm action",
+    "type": "text",
+    "placeholders": {}
+  },
+  "goodMorning": "Good Morning!",
+  "@goodMorning": {
+    "description": "Good morning",
+    "type": "text",
+    "placeholders": {}
+  },
+  "goodEvening": "Good Evening",
+  "@goodEvening": {
+    "description": "Good Evening",
+    "type": "text",
+    "placeholders": {}
+  },
+  "goodAfternoon": "Good Afternoon",
+  "@goodAfternoon": {
+    "description": "Good Afternoon",
+    "type": "text",
+    "placeholders": {}
+  },
+  "whatsUp": "How are you doing!",
+  "@whatsUp": {
+    "description": "How are you doing!",
+    "type": "text",
+    "placeholders": {}
+  },
+  "notifications": "Notifications",
+  "@notifications": {
+    "description": "Notifications",
+    "type": "text",
+    "placeholders": {}
+  },
+  "doubleTapToExit": "Click again to exit the application",
+  "@doubleTapToExit": {
+    "description": "Double click to exit",
+    "type": "text",
+    "placeholders": {}
+  },
+  "usersImage": "Users image",
+  "@usersImage": {
+    "description": "Users image",
+    "type": "text",
+    "placeholders": {}
+  },
+  "takeSelfie": "Take a selfie",
+  "@takeSelfie": {
+    "description": "Take a selfie",
+    "type": "text",
+    "placeholders": {}
+  },
+  "resetPassword": "Reset your password",
+  "@resetPassword": {
+    "description": "Reset your password",
+    "type": "text",
+    "placeholders": {}
+  },
+  "title": "QPay",
+  "@title": {
+    "description": "Title for the application",
+    "type": "text",
+    "placeholders": {}
+  },
+  "verificationCodeLogin": "Verification Code Login",
+  "@verificationCodeLogin": {
+    "description": "Title for the Login page",
+    "type": "text",
+    "placeholders": {}
+  },
+  "changeLanguage": "বাংলা ভাষা",
+  "@changeLanguage": {
+    "description": "Change app language",
+    "type": "text",
+    "placeholders": {}
+  },
+  "passwordLogin": "Password Login",
+  "@passwordLogin": {
+    "description": "Password Login",
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "Login",
+  "@login": {
+    "description": "Login",
+    "type": "text",
+    "placeholders": {}
+  },
+  "forgotPasswordLink": "Forgot Password",
+  "@forgotPasswordLink": {
+    "description": "Forgot Password",
+    "type": "text",
+    "placeholders": {}
+  },
+  "inputPasswordHint": "Please enter the Password",
+  "@inputPasswordHint": {
+    "description": "Please enter the Password",
+    "type": "text",
+    "placeholders": {}
+  },
+  "inputUsernameHint": "Please input your name",
+  "@inputUsernameHint": {
+    "description": "Please input Username",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noAccountRegisterLink": "No account yet? Register now",
+  "@noAccountRegisterLink": {
+    "description": "No account yet? Register now",
+    "type": "text",
+    "placeholders": {}
+  },
+  "register": "Register",
+  "@register": {
+    "description": "Register",
+    "type": "text",
+    "placeholders": {}
+  },
+  "openYourAccount": "Open your account",
+  "@openYourAccount": {
+    "description": "Open your account",
+    "type": "text",
+    "placeholders": {}
+  },
+  "inputPhoneHint": "Please enter phone number",
+  "@inputPhoneHint": {
+    "description": "Please enter phone number",
+    "type": "text",
+    "placeholders": {}
+  },
+  "inputNidHint": "Please enter national ID number",
+  "@inputNidHint": {
+    "description": "Please enter national Id number",
+    "type": "text",
+    "placeholders": {}
+  },
+  "inputVerificationCodeHint": "Please enter verification code",
+  "@inputVerificationCodeHint": {
+    "description": "Please enter verification code",
+    "type": "text",
+    "placeholders": {}
+  },
+  "inputPhoneInvalid": "Please input valid mobile phone number",
+  "@inputPhoneInvalid": {
+    "description": "Please input valid mobile phone number",
+    "type": "text",
+    "placeholders": {}
+  },
+  "inputNidInvalid": "Please input valid national Id number",
+  "@inputNidInvalid": {
+    "description": "Please input valid national Id number",
+    "type": "text",
+    "placeholders": {}
+  },
+  "verificationButton": "Not really sent, just log in!",
+  "@verificationButton": {
+    "description": "Not really sent, just log in!",
+    "type": "text",
+    "placeholders": {}
+  },
+  "getVerificationCode": "Get verification code",
+  "@getVerificationCode": {
+    "description": "Get verification code",
+    "type": "text",
+    "placeholders": {}
+  },
+  "nextStep": "Next",
+  "@nextStep": {
+    "description": "Next step",
+    "type": "text",
+    "placeholders": {}
+  }
+}
